@@ -74,7 +74,7 @@ const Portfolio = () => {
       description: 'Affiliate marketing platform built with Django and DRF, supporting vendor and promoter roles, product uploads, commission tracking, and analytics.',
       technologies: ['Django', 'Django REST Framework', 'React', 'PostgreSQL'],
       icon: <Share2 size={48} className="text-white" />,
-      demoUrl: '#',
+      demoUrl: 'https://clickhaven.netlify.app/',
       githubUrl: 'https://github.com/claire-bit/clickhaven',
     },
     {

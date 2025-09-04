@@ -75,7 +75,7 @@ const Portfolio = () => {
       technologies: ['Django', 'Django REST Framework', 'React', 'PostgreSQL'],
       icon: <Share2 size={48} className="text-white" />,
       demoUrl: '#',
-      githubUrl: 'https://github.com/claire-bit/024globalconnect',
+      githubUrl: 'https://github.com/claire-bit/clickhaven',
     },
     {
       id: 2,
